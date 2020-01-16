@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.rubrica.app",
+      "microservicePath": "/home/fabrizio/Desktop/myRubricaApp/servizio_rubrica"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "gateway",
+    "baseName": "gw_rubrica",
+    "packageName": "com.rubrica.app",
+    "packageFolder": "com/rubrica/app",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGM0MWVhNDgyZGMyMzkzODk2NTMyODU4MjZhNTk0Mzk0YjJlMTJjZjY4MTE3OWRkZDkxMWM2YmE0YjUwYzgwYzcyYTRmMDUwNDY2YzQwMGJlYmJhMzQ4MjQ5NjJjOTk0ZGEzMzE0ZjQzNzliZDRiNGQ0YzgzNzZlYTczOTQwNmQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}

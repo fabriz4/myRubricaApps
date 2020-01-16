@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.rubrica.app"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "microservice",
+    "baseName": "serviziorubrica",
+    "packageName": "com.rubrica.app",
+    "packageFolder": "com/rubrica/app",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZmQ0M2I4ZjBmNjhmOWVkOTcxMzgwYzhiNzVlYmIzNjk0NWYwNmFmMTgwNGE3ZGFlZWY3NzJjYjZhNDZkYmRkM2Y5NzA1YTMxNTY2OGYwNGE4Mzk0ZDhlMDcxZTQ3MmIyZjA4YTAzYTNiMjVjYTEwZmI3OWI5OTk2MDVmZjU0NWU=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gw_rubrica/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/gw_rubrica/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servizio_rubrica/.mvn/.mvn1.iml" filepath="$PROJECT_DIR$/servizio_rubrica/.mvn/.mvn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jhipster-registry/.mvn/.mvn2.iml" filepath="$PROJECT_DIR$/jhipster-registry/.mvn/.mvn2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gw_rubrica/target/generated-sources/generated-sources.iml" filepath="$PROJECT_DIR$/gw_rubrica/target/generated-sources/generated-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servizio_rubrica/target/generated-sources/generated-sources1.iml" filepath="$PROJECT_DIR$/servizio_rubrica/target/generated-sources/generated-sources1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gw_rubrica/target/generated-test-sources/generated-test-sources.iml" filepath="$PROJECT_DIR$/gw_rubrica/target/generated-test-sources/generated-test-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servizio_rubrica/target/generated-test-sources/generated-test-sources1.iml" filepath="$PROJECT_DIR$/servizio_rubrica/target/generated-test-sources/generated-test-sources1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jhipster-registry/src/main/main.iml" filepath="$PROJECT_DIR$/jhipster-registry/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servizio_rubrica/src/main/main1.iml" filepath="$PROJECT_DIR$/servizio_rubrica/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gw_rubrica/src/main/main2.iml" filepath="$PROJECT_DIR$/gw_rubrica/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servizio_rubrica/src/test/test.iml" filepath="$PROJECT_DIR$/servizio_rubrica/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jhipster-registry/src/test/test1.iml" filepath="$PROJECT_DIR$/jhipster-registry/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gw_rubrica/src/test/test2.iml" filepath="$PROJECT_DIR$/gw_rubrica/src/test/test2.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gw_rubrica" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jhipster-registry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myRubricaApps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/servizio_rubrica" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="gradle-wrapper">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/gw_rubrica/node_modules/generator-jhipster/generators/server/templates/gradle/wrapper/gradle-wrapper.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="gradle-wrapper1">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/jhipster-registry/node_modules/generator-jhipster/generators/server/templates/gradle/wrapper/gradle-wrapper.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="gradle-wrapper2">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/servizio_rubrica/node_modules/generator-jhipster/generators/server/templates/gradle/wrapper/gradle-wrapper.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="maven-wrapper">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/jhipster-registry/.mvn/wrapper/maven-wrapper.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="maven-wrapper1">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/servizio_rubrica/node_modules/generator-jhipster/generators/server/templates/.mvn/wrapper/maven-wrapper.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="maven-wrapper2">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/jhipster-registry/node_modules/generator-jhipster/generators/server/templates/.mvn/wrapper/maven-wrapper.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="maven-wrapper3">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/servizio_rubrica/.mvn/wrapper/maven-wrapper.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="maven-wrapper4">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/gw_rubrica/node_modules/generator-jhipster/generators/server/templates/.mvn/wrapper/maven-wrapper.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="maven-wrapper5">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/gw_rubrica/.mvn/wrapper/maven-wrapper.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="openapi-generator">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/jhipster-registry/node_modules/@openapitools/openapi-generator-cli/bin/openapi-generator.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="openapi-generator1">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/gw_rubrica/node_modules/@openapitools/openapi-generator-cli/bin/openapi-generator.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="openapi-generator2">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/servizio_rubrica/node_modules/@openapitools/openapi-generator-cli/bin/openapi-generator.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="serviziorubrica-0.0.1-SNAPSHOT">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/servizio_rubrica/target/serviziorubrica-0.0.1-SNAPSHOT.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>

@@ -17,7 +17,7 @@ import org.springframework.http.HttpStatus;
 import com.rubrica.app.security.SecurityUtils;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import org.springframework.http.ResponseEntity;
-import org.springframework.transaction.annotation.Transactional; 
+import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.*;
 
 import java.net.URI;
@@ -65,13 +65,13 @@ public class ContattiResource {
         if (SecurityUtils.getCurrentUserLogin() == null) {
             throw new BadRequestAlertException("Something goes wrong with authentication",ENTITY_NAME,"authfailed");
         }
-        //il proprietario del contatto ,che viene inserito, è l'utente corrente. 
-        //questo campo non può essere modificato o inserito dall'utente. 
+        //il proprietario del contatto ,che viene inserito, è l'utente corrente.
+        //questo campo non può essere modificato o inserito dall'utente.
         contatti.setOwner(SecurityUtils.getCurrentUserLogin().get());
         Contatti result = contattiRepository.save(contatti);
         return ResponseEntity
                 .created(new URI("/api/contattis/" + result.getId())).headers(HeaderUtil
-                        .createEntityCreationAlert(applicationName, false, ENTITY_NAME, result.getId().toString()))
+                .createEntityCreationAlert(applicationName, false, ENTITY_NAME, result.getId().toString()))
                 .body(result);
     }
 
@@ -101,9 +101,9 @@ public class ContattiResource {
     /**
      * {@code GET  /contattis} : get all the contattis.
      *
-     * 
+     *
      * @param pageable the pagination information.
-     * 
+     *
      * @return the {@link ResponseEntity} with status {@code 200 (OK)} and the list
      *         of contattis in body.
      */

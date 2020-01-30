@@ -4,7 +4,6 @@ import com.rubrica.app.ServiziorubricaApp;
 import com.rubrica.app.domain.Contatti;
 import com.rubrica.app.repository.ContattiRepository;
 import com.rubrica.app.web.rest.errors.ExceptionTranslator;
-
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.MockitoAnnotations;
@@ -177,7 +176,7 @@ public class ContattiResourceIT {
             .andExpect(jsonPath("$.[*].email").value(hasItem(DEFAULT_EMAIL)))
             .andExpect(jsonPath("$.[*].owner").value(hasItem(DEFAULT_OWNER)));
     }
-    
+
     @Test
     @Transactional
     public void getContatti() throws Exception {

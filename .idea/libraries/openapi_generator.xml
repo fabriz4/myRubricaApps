@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="openapi-generator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jhipster-registry/node_modules/@openapitools/openapi-generator-cli/bin/openapi-generator.jar!/" />
+      <root url="file://$PROJECT_DIR$/jhipster-registry/node_modules/@openapitools/openapi-generator-cli/bin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/jhipster-registry/node_modules/@openapitools/openapi-generator-cli/bin" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/jhipster-registry/node_modules/@openapitools/openapi-generator-cli/bin" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jhipster-registry/node_modules/@openapitools/openapi-generator-cli/bin" recursive="false" type="SOURCES" />
+  </library>
+</component>

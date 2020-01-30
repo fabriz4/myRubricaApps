@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GwRubricaApp<gw-rubrica>",
+            "request": "launch",
+            "mainClass": "com.rubrica.app.GwRubricaApp",
+            "projectName": "gw-rubrica"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JHipsterRegistryApp<jhipster-registry>",
+            "request": "launch",
+            "mainClass": "io.github.jhipster.registry.JHipsterRegistryApp",
+            "projectName": "jhipster-registry"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ServiziorubricaApp<serviziorubrica>",
+            "request": "launch",
+            "mainClass": "com.rubrica.app.ServiziorubricaApp",
+            "projectName": "serviziorubrica"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gw_rubrica/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/gw_rubrica/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servizio_rubrica/.mvn/.mvn1.iml" filepath="$PROJECT_DIR$/servizio_rubrica/.mvn/.mvn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jhipster-registry/.mvn/.mvn2.iml" filepath="$PROJECT_DIR$/jhipster-registry/.mvn/.mvn2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gw_rubrica/target/generated-sources/generated-sources.iml" filepath="$PROJECT_DIR$/gw_rubrica/target/generated-sources/generated-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servizio_rubrica/target/generated-sources/generated-sources1.iml" filepath="$PROJECT_DIR$/servizio_rubrica/target/generated-sources/generated-sources1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gw_rubrica/target/generated-test-sources/generated-test-sources.iml" filepath="$PROJECT_DIR$/gw_rubrica/target/generated-test-sources/generated-test-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servizio_rubrica/target/generated-test-sources/generated-test-sources1.iml" filepath="$PROJECT_DIR$/servizio_rubrica/target/generated-test-sources/generated-test-sources1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jhipster-registry/src/main/main.iml" filepath="$PROJECT_DIR$/jhipster-registry/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servizio_rubrica/src/main/main1.iml" filepath="$PROJECT_DIR$/servizio_rubrica/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gw_rubrica/src/main/main2.iml" filepath="$PROJECT_DIR$/gw_rubrica/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servizio_rubrica/src/test/test.iml" filepath="$PROJECT_DIR$/servizio_rubrica/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jhipster-registry/src/test/test1.iml" filepath="$PROJECT_DIR$/jhipster-registry/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gw_rubrica/src/test/test2.iml" filepath="$PROJECT_DIR$/gw_rubrica/src/test/test2.iml" />
+    </modules>
+  </component>
+</project>
